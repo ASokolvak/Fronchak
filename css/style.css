@@ -156,7 +156,9 @@ body {
 
 
 
-.content {}
+.content img{
+  object-fit: cover;
+}
 
 .about__title {
   font-family: 'Inter';
